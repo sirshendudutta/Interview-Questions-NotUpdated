@@ -387,7 +387,7 @@ Linux (RHEL)
 * Difference between ps -aux & top command ?
 * What are the ways to check CPU usage ?
 * How to check CPU details ?
-* Explain the steps to create a partition & how to format with file system ?
+** Explain the steps to create a partition & how to format with file system ?
 * Explain the steps to create LV ?
 * Explain steps to reduce XFS & EXT files systems ?
 * Significance of .bashrc file ?
